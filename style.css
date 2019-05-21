@@ -1,0 +1,16 @@
+.logo{
+ position: fixed;
+ top: 225px;
+ left: 650px;   
+}
+
+.search_bar{
+    position:fixed;
+    top:420px;
+    left:650px;
+}
+
+.search_bar input{
+    height: 30px;
+    width:550px;
+}
